@@ -1,0 +1,2 @@
+youtubeのFamTrinliさん、Akichonさんの動画のoutrunを組んでみました。
+windowschromeでしか、動作確認をしていません。
