@@ -1,0 +1,41 @@
+#can{
+ position: absolute;
+}
+
+#time_container{
+  height: 150px;
+  width: 1024px;
+  position :absolute;
+  top: 0;
+  z-index: 10;
+}
+#total_time{
+display: block;
+font-weight:bold;
+font-size:30px;
+position:absolute;
+left:400px;
+}
+#view_time{
+display: block;
+font-weight:bold;
+position:absolute;
+font-size:30px;
+left:750px;
+}
+
+
+#lap_container{
+  height: 150px;
+  width: 1024px;
+  position :absolute;
+  top: 600px;
+  z-index: 10;
+}
+#html_lap{
+display: block;
+font-weight:bold;
+font-size:40px;
+position:absolute;
+left:850px;
+}

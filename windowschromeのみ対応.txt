@@ -1,0 +1,3 @@
+windowsのchromeのショートカットのプロパティのリンク先の最後を
+\chrome.exe" --allow-file-access-from-files
+にしたショートカットで起動してください。
